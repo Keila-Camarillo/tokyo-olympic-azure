@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olmpic-df",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "06c445fd-e22b-4a65-80f5-8d0887379ad1",
+		"tenantId": "a60b5ff6-5bb3-45ef-90b1-f40d840e2128"
+	}
+}
